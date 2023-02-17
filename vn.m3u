@@ -70,7 +70,7 @@ https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="VTV5.vn" status="blocked",VTV5 (1080p) [Geo-blocked]
 https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="VTVCanTho.vn" status="blocked",VTV Can Tho (1080p) [Geo-blocked]
-https://sgn-vtt-002-livecdn-vthn-vnd.vieon.vn/9c749012c53ec207f68f84667bfed720/1672474511017/vtc/live/hd_vtv_cantho/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="VTV7.vn" status="blocked",VTV7 (1080p) [Geo-blocked] [Not 24/7]
 https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="VTV8.vn" status="blocked",VTV8 (1080p) [Geo-blocked]
