@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WCBS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/1280px-CBS_2.svg.png" group-title="General", WCBS (1080p)
+http://v-ny.theus6tv.duckdns.org/hls/2.1/playlist.m3u8
+#EXTINF:-1 tvg-id="STARTTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Start_TV_logo.svg/512px-Start_TV_logo.svg.png" group-title="Drama", Start TV (1080p)
+http://v-ny.theus6tv.duckdns.org/hls/2.2/playlist.m3u8
+#EXTINF:-1 tvg-id="DABL.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Dabl_logo.svg/410px-Dabl_logo.svg.png" group-title="Lifestyle", Dabl (1080p)
+http://v-ny.theus6tv.duckdns.org/hls/2.3/playlist.m3u8
+#EXTINF:-1 tvg-id="FAVE-TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/Logo_of_Fave_TV.png" group-title="Undefined", Fave TV (1080p)
+http://v-ny.theus6tv.duckdns.org/hls/2.4/playlist.m3u8
+#EXTINF:-1 tvg-id="CIRCLE.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/440px-Circle_Network_logo.svg.png" group-title="Country/Blue/Rural Music", Circle (1080p)
+https://circle-samsung.amagi.tv/playlist.m3u8
