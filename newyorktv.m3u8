@@ -23,3 +23,15 @@ http://v-ny.theus6tv.duckdns.org/hls/5.3/playlist.m3u8
 http://v-ny.theus6tv.duckdns.org/hls/5.4/playlist.m3u8
 #EXTINF:-1 tvg-id="DECADES.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Decades_Logo.svg/323px-Decades_Logo.svg.png" group-title="Classical", Decades
 http://v-ny.theus6tv.duckdns.org/hls/5.5/playlist.m3u8
+#EXTINF:-1 tvg-id="WABC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/263px-WABC_TV_New_2021.svg.png" group-title="General", WABC
+http://v-ny.theus6tv.duckdns.org/hls/7.1/playlist.m3u8
+#EXTINF:-1 tvg-id="LOCALISH.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Localish_Logo.png" group-title="General", Localish
+http://v-ny.theus6tv.duckdns.org/hls/7.2/playlist.m3u8
+#EXTINF:-1 tvg-id="THISTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/This_TV_logo.svg/323px-This_TV_logo.svg.png" group-title="General", This TV
+https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
+#EXTINF:-1 tvg-id="HSN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/330px-HSN_logo.svg.png" group-title="Shopping", HSN
+http://v-ny.theus6tv.duckdns.org/hls/7.4/playlist.m3u8
+#EXTINF:-1 tvg-id="WWOR.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/WWOR_NewJersey.svg/1920px-WWOR_NewJersey.svg.png" group-title="General", WWOR
+http://v-ny.theus6tv.duckdns.org/hls/9.1/playlist.m3u8
+#EXTINF:-1 tvg-id="BUZZR.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/263px-Buzzr_logo.svg.png" group-title="Classic Game Shows and Quizzes", Buzzr
+http://v-ny.theus6tv.duckdns.org/hls/9.2/playlist.m3u8
