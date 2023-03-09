@@ -11,5 +11,15 @@ http://v-ny.theus6tv.duckdns.org/hls/2.4/playlist.m3u8
 https://circle-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WNBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/330px-WNBC_4_NY.svg.png" group-title="General", WNBC
 http://v-ny.theus6tv.duckdns.org/hls/4.1/playlist.m3u8
-#EXTINF:-1 tvg-id="COZI-TV".us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/300px-Cozi_TV_logo.svg.png" group-title="General", Cozi TV
+#EXTINF:-1 tvg-id="COZI-TV".us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/300px-Cozi_TV_logo.svg.png" group-title="Classical", Cozi TV
 http://v-ny.theus6tv.duckdns.org/hls/4.2/playlist.m3u8
+#EXTINF:-1 tvg-id="WNYW.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/360px-Fts-new-york-a.svg.png" group-title="General", WNYW
+http://v-ny.theus6tv.duckdns.org/hls/5.1/playlist.m3u8
+#EXTINF:-1 tvg-id="MOVIES.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Movies%21_logo.svg/330px-Movies%21_logo.svg.png" group-title="Movies and TV", Movies!
+http://v-ny.theus6tv.duckdns.org/hls/5.2/playlist.m3u8
+#EXTINF:-1 tvg-id="WEATHER.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/225px-Fox_Weather_logo.svg.png" group-title="Weather", Fox Weather
+http://v-ny.theus6tv.duckdns.org/hls/5.3/playlist.m3u8
+#EXTINF:-1 tvg-id="TheGrio.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/The_Grio_logo.png" group-title="African-American", The Grio
+http://v-ny.theus6tv.duckdns.org/hls/5.4/playlist.m3u8
+#EXTINF:-1 tvg-id="DECADES.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Decades_Logo.svg/323px-Decades_Logo.svg.png" group-title="Classical", Decades
+http://v-ny.theus6tv.duckdns.org/hls/5.5/playlist.m3u8
