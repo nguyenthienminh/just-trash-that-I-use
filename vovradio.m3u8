@@ -1,3 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="VOV1" tvg-logo="https://foxxradio.com/upload/vi/1671787010.png.webp" group-title="General Radio" radio="true",VOV1
+#EXTINF:-1 tvg-id="VOV1.vn" tvg-logo="https://foxxradio.com/upload/vi/1671787010.png.webp" group-title="General Radio" radio="true",VOV1
 https://stream.vovmedia.vn/vov1
+#EXTINF:-1 tvg-id="VOV2.vn" tvg-logo="https://vov2.vov.vn/themes/custom/vov_news/logo.png" group-title="Cultural and Education Radio" radio="true",VOV2
+https://stream.vovmedia.vn/vov2
+#EXTINF:-1 tvg-id="VOV3.vn" tvg-logo="https://vov3.vov.vn/themes/custom/vov_3_new/images/vovtv-logo.png" group-title="Music Radio" radio="true",VOV3
+https://stream.vovmedia.vn/vov3
+#EXTINF:-1 tvg-id="VOV4TayBac.vn" tvg-logo="https://foxxradio.com/upload/vi/1671788849.png.webp" group-title="Ethnic Radio" radio="true",VOV4 Northwest
+https://stream.vovmedia.vn/vov4tb
+#EXTINF:-1 tvg-id="VOV4DongBac.vn" tvg-logo="https://foxxradio.com/upload/vi/1671789125.png.webp" group-title="Ethnic Radio" radio="true",VOV4 Northeast
+https://stream.vovmedia.vn/vov4db
+#EXTINF:-1 tvg-id="VOV4MienTrung.vn" tvg-logo="https://foxxradio.com/upload/vi/1671788868.png.webp" group-title="Ethnic Radio" radio="true",VOV4 Central
+https://stream.vovmedia.vn/vov4mt
+#EXTINF:-1 tvg-id="VOV4TayNguyen.vn" tvg-logo="https://foxxradio.com/upload/vi/1671789171.png.webp" group-title="Ethnic Radio" radio="true",VOV4 Central Highlands
+https://stream.vovmedia.vn/vov4tn
+#EXTINF:-1 tvg-id="VOV4DongBangSongCuuLong.vn" tvg-logo="https://foxxradio.com/upload/vi/1671789228.png.webp" group-title="Ethnic Radio" radio="true",VOV4 Mekong Delta
+https://stream.vovmedia.vn/vov4dbscl
+#EXTINF:-1 tvg-id="VOV5.vn" tvg-logo="https://foxxradio.com/upload/vi/1671788868.png" group-title="World Radio" radio="true",VOV5 / World
+https://stream.vovmedia.vn/vovworld
