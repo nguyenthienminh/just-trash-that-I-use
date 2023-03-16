@@ -15,5 +15,19 @@ https://stream.vovmedia.vn/vov4mt
 https://stream.vovmedia.vn/vov4tn
 #EXTINF:-1 tvg-id="VOV4DongBangSongCuuLong.vn" tvg-logo="https://foxxradio.com/upload/vi/1671789228.png.webp" group-title="Ethnic Radio" radio="true",VOV4 Mekong Delta
 https://stream.vovmedia.vn/vov4dbscl
-#EXTINF:-1 tvg-id="VOV5.vn" tvg-logo="https://foxxradio.com/upload/vi/1671788868.png" group-title="World Radio" radio="true",VOV5 / World
-https://stream.vovmedia.vn/vovworld
+#EXTINF:-1 tvg-id="VOV4HoChiMinh.vn" tvg-logo="https://foxxradio.com/upload/vi/1671789275.png.webp" group-title="Ethnic Radio" radio="true",VOV4 Ho Chi Minh
+https://stream.vovmedia.vn/vov4hcm
+#EXTINF:-1 tvg-id="VOV5.vn" tvg-logo="https://foxxradio.com/upload/vi/1671788035.png.webp" group-title="World Radio" radio="true",VOV5 / World
+https://stream.vovmedia.vn/vov5
+#EXTINF:-1 tvg-id="VOVEnglish247.vn" tvg-logo="https://foxxradio.com/upload/vi/1671788129.png.webp" group-title="English World Radio" radio="true",VOV English 24/7
+https://stream.vovmedia.vn/vov247
+#EXTINF:-1 tvg-id="VOVHealth.vn" tvg-logo="https://foxxradio.com/upload/vi/1671787926.png.webp" group-title="Health Radio" radio="true",VOV Health 89FM
+https://stream.vovmedia.vn/fm89
+#EXTINF:-1 tvg-id="VOVTransportationHanoi.vn" tvg-logo="https://foxxradio.com/upload/vi/1671787624.png.webp" group-title="Transportation Radio" radio="true",VOV Transportation Hanoi
+https://stream.vovmedia.vn/vovgthn
+#EXTINF:-1 tvg-id="VOVTransportationHanoi90.vn" tvg-logo="https://foxxradio.com/upload/vi/1617337075.jpg.webp" group-title="Transportation Radio" radio="true",VOV Transportation Hanoi FM 90
+https://1028513096.vnns.net/fm90/chunks.m3u8
+#EXTINF:-1 tvg-id="VOVTransportationHoChiMinh.vn" tvg-logo="https://foxxradio.com/upload/vi/1671787823.png.webp" group-title="Transportation Radio" radio="true",VOV Transportation Ho Chi Minh
+https://stream.vovmedia.vn/vovgthcm
+#EXTINF:-1 tvg-id="VOVTransportationMekong.vn" tvg-logo="https://foxxradio.com/upload/vi/1671788606.png.webp" group-title="Transportation Radio" radio="true",VOV Transportation Mekong
+https://stream.vovmedia.vn/vovmekong
